@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alba Kingdom.CSharp", "Alba Kingdom.CSharp.csproj", "{2444467C-8B23-0ED3-C676-8CCF80831925}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alba Kingdom.CSharp.Editor", "Alba Kingdom.CSharp.Editor.csproj", "{4F67420D-1D8A-C5AA-6BF3-E619E8763E4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2444467C-8B23-0ED3-C676-8CCF80831925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2444467C-8B23-0ED3-C676-8CCF80831925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2444467C-8B23-0ED3-C676-8CCF80831925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2444467C-8B23-0ED3-C676-8CCF80831925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F67420D-1D8A-C5AA-6BF3-E619E8763E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F67420D-1D8A-C5AA-6BF3-E619E8763E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F67420D-1D8A-C5AA-6BF3-E619E8763E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F67420D-1D8A-C5AA-6BF3-E619E8763E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

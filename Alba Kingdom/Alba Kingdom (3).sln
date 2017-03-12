@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{27619C0A-6FBB-F172-1E0B-6AA990E2DA7B}") = "Alba Kingdom (3)", "Assembly-CSharp.csproj", "{3C9A0198-5358-32CD-B507-9BA42FCC2632}"
+EndProject
+Project("{27619C0A-6FBB-F172-1E0B-6AA990E2DA7B}") = "Alba Kingdom (3)", "Assembly-CSharp-Editor.csproj", "{2075B4E7-A3E0-7F1A-27B5-4F779571470D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C9A0198-5358-32CD-B507-9BA42FCC2632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9A0198-5358-32CD-B507-9BA42FCC2632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9A0198-5358-32CD-B507-9BA42FCC2632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9A0198-5358-32CD-B507-9BA42FCC2632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2075B4E7-A3E0-7F1A-27B5-4F779571470D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2075B4E7-A3E0-7F1A-27B5-4F779571470D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2075B4E7-A3E0-7F1A-27B5-4F779571470D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2075B4E7-A3E0-7F1A-27B5-4F779571470D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
